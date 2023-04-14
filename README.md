@@ -1,5 +1,9 @@
 # Simple Chat GPT CLI written in Go
 
+## Notes:
+- using ChatGPT through their API costs money -- though, just fractions of a penny per thousand tokens
+- you also need to sign up on OpenAIs website to get an API key for yourself
+
 ## Steps:
 - create `api.key`
 ```bash
